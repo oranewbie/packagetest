@@ -1,0 +1,21 @@
+{
+  "name": "@oranewbie/zeditor",
+  "version": "0.1.0",
+  "description": "zeditor",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "module": "dist/index.es.js",
+  "repository": "git@github.com:oranewbie/zeditor.git",
+  "author": "Jaijun Lee<oranewbie@gmail.com>",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
